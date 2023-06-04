@@ -1,6 +1,6 @@
 # Alarm
 Alarm clock project (html , css, js)
-# Coding-Ninjas   AlarmClock-Project
+
 This is an alarm clock application that can set alarms , manage alarms and can get current time.
 
 
