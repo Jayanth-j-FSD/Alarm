@@ -5,6 +5,8 @@ This is an alarm clock application that can set alarms , manage alarms and can g
 
 
 The query given to me is like :
+![reference](https://github.com/Jayanth-j-FSD/Alarm/assets/91666489/246cd289-5d95-47f8-ab62-14ebba1960f8)
+
 
 
 
